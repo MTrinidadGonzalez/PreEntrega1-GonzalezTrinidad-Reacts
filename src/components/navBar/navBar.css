@@ -1,0 +1,25 @@
+.divNavBar{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+}
+
+ul{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    list-style: none;
+    font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+}
+li a{
+    text-decoration: none;
+    padding: 5px;
+    margin: 5px;
+    color: black;
+}
+li a:hover{
+    color: rgb(95,124,222);
+}
