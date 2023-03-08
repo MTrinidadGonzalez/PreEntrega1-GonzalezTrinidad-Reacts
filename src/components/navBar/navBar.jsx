@@ -1,6 +1,6 @@
 import React from "react";
 import Title from '../Title-logo/title'
-import CartWidget from  "../cartWidget/cartWidget"
+import CartWidget from  "../CartWidget/CartWidget"
 import "./navBar.css";
 
  const NavBar= ()=>{

@@ -1,6 +1,6 @@
 import React from "react";
 import Count from "../Count/count";
-import "./itemListContainer.css"
+import "./ItemListContainer.css"
 
 const ItemListContainer = (props)=>{
     return(
